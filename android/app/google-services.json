@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "814762814923",
+    "project_id": "chatappcarr",
+    "storage_bucket": "chatappcarr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814762814923:android:bb719758de9f8ce2b6da4e",
+        "android_client_info": {
+          "package_name": "com.example.chat_app_carr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814762814923-5m82i9qhp3hqggfutppufagnf83h089c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB4bfxdqHKtiJzkoKc_1qAVoPX9ig9cmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814762814923-5m82i9qhp3hqggfutppufagnf83h089c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
